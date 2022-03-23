@@ -1,4 +1,4 @@
-# House Rocker - Insights Through Data
+# House Rocket - Insights Through Data
  House Hocket Company insights project. Data analysis and hypothesis validation.
 
 # 1. Context
