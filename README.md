@@ -3,3 +3,6 @@
 
 # 1. Context
 House Rocket é uma empresa que possui como modelo de negócio comprar e vender imóveis.
+
+
+Em construção...
