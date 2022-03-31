@@ -9,4 +9,38 @@ House Rocket is a digital platform in which its business model is based on the p
 # 2. Business Assumptions
 - The data analyzed was from May 2014 to May 2015;
 
+# 3. Business Results
+
+# 4. Validation of Business Hypotheses
+
+#### H1 - Properties with 3 bathrooms have a 15% MoM average growth.
+
+![newplot (11)](https://user-images.githubusercontent.com/97196457/161087580-170206c2-9ab4-4d74-a27b-13f28a3441e6.png)
+
+**False**! Average month-over-month growth for 3 bathroom properties is **23.28%**.
+
+#
+
+#### H2 - Properties without a basement have a total area (of the lot) 40% larger, on average, than properties with a basement.
+
+![average batch per basement](https://user-images.githubusercontent.com/97196457/161133267-24e18a7a-4fbb-4334-bbf7-57d49a277222.png)
+
+**False**! Properties without a basement have a total area (of the lot) **22,56%** larger, on average, than properties with a basement.
+
+#
+
+#### H3 - Properties with water view are 20% more expensive on average.
+
+![average price per water view](https://user-images.githubusercontent.com/97196457/161134150-54eca024-822f-4820-8b7f-caf131f26d33.png)
+
+**False**! Properties with water view are **212,64%** more expensive on average.
+
+#
+
+#### H4 - Properties with a construction date less than 1955 are 20% cheaper on average.
+
+![average price per year built](https://user-images.githubusercontent.com/97196457/161134770-01978059-0cc6-454d-a433-3a0f9e26166d.png)
+
+**False**! Properties with a construction date less than 1955 are 0.78% cheaper on average, an irrelevant difference that can be seen in the graph.
+
 Em construção...
