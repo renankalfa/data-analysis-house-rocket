@@ -4,7 +4,11 @@
 <img width="1796" alt="house rocket wallpaper" src="https://user-images.githubusercontent.com/97196457/160295938-aaa525e3-6d60-4bc4-801a-b5f5982efe7c.png">
 
 # 1. Business Problem 🤵
-House Rocket is a digital platform in which its business model is based on the purchase and sale of properties. As a data scientist, my mission is to validate business hypotheses and generate an online dashboard for the CEO with an overview of properties and which properties I would recommend buying.
+House Rocket is a digital platform in which its business model is based on the purchase and sale of properties. As a data scientist, my mission is to validate business hypotheses and recommend the purchase of properties based on criteria, as well as set the sale price and profit.
+
+This dataset contains properties prices for King County, one of 39 counties in the US state of Washington.
+
+<img width="1483" alt="king country" src="https://user-images.githubusercontent.com/97196457/161308932-b025b7d7-922b-4114-93d6-f182bf5a91ca.png">
 
 # 2. Business Assumptions 👀
 - The data analyzed was from May 2014 to May 2015;
