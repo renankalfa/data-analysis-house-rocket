@@ -21,9 +21,9 @@ The criterion to recommend the properties to be acquired was based on the 'condi
 ![dash results](https://user-images.githubusercontent.com/97196457/161179006-a7c0b79a-03a4-443a-a1bd-494ce14cab3e.png)
 
 Result of the deal of 10579 properties:
-- Total cost: US$4094212008.00 
-- Total sold: US$4851233774.00 
-- Total profit: US$ 757021766.00
+- Total cost: US$4094212008.00;
+- Total sold: US$4851233774.00; 
+- Total profit: US$ 757021766.00.
 
 # 4. Validation of Business Hypotheses
 
@@ -61,4 +61,6 @@ For comparison purposes, follow the chart with all the properties:
 
 **False**! Properties with a construction date less than 1955 are 0.78% cheaper on average, an irrelevant difference that can be seen in the graph.
 
-Em construção...
+# 5. Conclusion
+
+# 6. Next Steps
