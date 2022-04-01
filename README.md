@@ -19,6 +19,10 @@ House Rocket is a digital platform in which its business model is based on the p
 
 **False**! Average month-over-month growth for 3 bathroom properties is **23.28%**.
 
+For comparison purposes, follow the chart with all the properties:
+
+![MoM all](https://user-images.githubusercontent.com/97196457/161171579-75129e0b-060a-493c-a3ed-0d47e76505fd.png)
+
 #
 
 #### H2 - Properties without a basement have a total area (of the lot) 40% larger, on average, than properties with a basement.
