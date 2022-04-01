@@ -1,5 +1,5 @@
-# House Rocket - Data Into Insights
- House Hocket (fictional) Company insights project. Data analysis and hypothesis validation. 
+# House Rocket - Data Analysis
+ House Hocket (fictional) Company data analysis and hypothesis validation. 
  
 <img width="1796" alt="house rocket wallpaper" src="https://user-images.githubusercontent.com/97196457/160295938-aaa525e3-6d60-4bc4-801a-b5f5982efe7c.png">
 
@@ -17,6 +17,8 @@ The criterion to recommend the properties to be acquired was based on the 'condi
 - The property price must be less than the region's median price (zipcode).
 
 # 3. Business Results
+
+![test](https://user-images.githubusercontent.com/97196457/161175021-375d9c28-b514-4547-931c-d3f446ade80a.png)
 
 # 4. Validation of Business Hypotheses
 
