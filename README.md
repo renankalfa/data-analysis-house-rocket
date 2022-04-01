@@ -3,10 +3,10 @@
  
 <img width="1796" alt="house rocket wallpaper" src="https://user-images.githubusercontent.com/97196457/160295938-aaa525e3-6d60-4bc4-801a-b5f5982efe7c.png">
 
-# 1. Business Problem
+# 1. Business Problem 🤵
 House Rocket is a digital platform in which its business model is based on the purchase and sale of properties. As a data scientist, my mission is to validate business hypotheses and generate an online dashboard for the CEO with an overview of properties and which properties I would recommend buying.
 
-# 2. Business Assumptions
+# 2. Business Assumptions 👀
 - The data analyzed was from May 2014 to May 2015;
 - The seasons of the year, for simplicity, were defined as:
   - "Summer" starts in March and ends in August;
@@ -16,16 +16,16 @@ The criterion to recommend the properties to be acquired was based on the 'condi
 - The "condition" attribute must be greater than or equal to 3. This is equivalent to the "'condition_type" attribute being regular or good;
 - The property price must be less than the region's median price (zipcode).
 
-# 3. Business Results
+# 3. Business Results 🤑
 
 ![dash results](https://user-images.githubusercontent.com/97196457/161179006-a7c0b79a-03a4-443a-a1bd-494ce14cab3e.png)
 
 Result of the deal of 10579 properties:
 - Total cost: US$4094212008.00;
 - Total sold: US$4851233774.00; 
-- Total profit: US$ 757021766.00.
+- Total profit: US$757021766.00.
 
-# 4. Validation of Business Hypotheses
+# 4. Validation of Business Hypotheses👨‍💻
 
 #### H1 - Properties with 3 bathrooms have a 15% MoM average growth.
 
@@ -61,6 +61,22 @@ For comparison purposes, follow the chart with all the properties:
 
 **False**! Properties with a construction date less than 1955 are 0.78% cheaper on average, an irrelevant difference that can be seen in the graph.
 
-# 5. Conclusion
+# 5. Conclusion 📍
 
-# 6. Next Steps
+I consider that most of the objectives have been completed that have already determined more elaborate properties to be purchased, in addition to stipulating a sale value based on seasonality. As well as the validation of hypotheses.
+
+I haven't completed all the goals, like deploying an online dashboard, to start a machine learning project right now, and I believe this will be more beneficial for me. 
+
+# 6. Next Steps 👣
+
+- Create and verify more business hypotheses;
+- Generate top 5 insights;
+- Analyze correlation in depth to gain insights;
+- Deploy a online dashboard to CEO.
+
+# 7. Tools Used 🛠️
+- Python 3.8.12;
+- Jupyter Notebook;
+- Git/GitHub/GitHub Desktop;
+- Adobe Photoshop;
+- Notion.
