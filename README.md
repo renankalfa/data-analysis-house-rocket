@@ -20,7 +20,7 @@ The criterion to recommend the properties to be acquired was based on the 'condi
 - The "condition" attribute must be greater than or equal to 3. This is equivalent to the "'condition_type" attribute being regular or good;
 - The property price must be less than the region's median price (zipcode).
 
-# 3. Business Results 🤑
+# 3. Business Result
 
 ![dash results](https://user-images.githubusercontent.com/97196457/161179006-a7c0b79a-03a4-443a-a1bd-494ce14cab3e.png)
 
@@ -29,7 +29,7 @@ Result of the deal of 10579 properties:
 - Total sold: US$4851233774.00; 
 - Total profit: US$757021766.00.
 
-# 4. Validation of Business Hypotheses👨‍💻
+# 4. Validation of Business Hypotheses
 
 #### H1 - Properties with 3 bathrooms have a 15% MoM average growth.
 
