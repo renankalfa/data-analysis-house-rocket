@@ -3,11 +3,18 @@
  
 <img width="1796" alt="house rocket wallpaper" src="https://user-images.githubusercontent.com/97196457/160295938-aaa525e3-6d60-4bc4-801a-b5f5982efe7c.png">
 
-# 1. Context
+# 1. Business Problem
 House Rocket is a digital platform in which its business model is based on the purchase and sale of properties. As a data scientist, my mission is to validate business hypotheses and generate an online dashboard for the CEO with an overview of properties and which properties I would recommend buying.
 
 # 2. Business Assumptions
 - The data analyzed was from May 2014 to May 2015;
+- The seasons of the year, for simplicity, were defined as:
+  - "Summer" starts in March and ends in August;
+  - "Winter" starts in September and ends in February.
+
+The criterion to recommend the properties to be acquired was based on the 'condition' attribute and the price:
+- The "condition" attribute must be greater than or equal to 3. This is equivalent to the "'condition_type" attribute being regular or good;
+- The property price must be less than the region's median price (zipcode).
 
 # 3. Business Results
 
