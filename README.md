@@ -18,11 +18,12 @@ The criterion to recommend the properties to be acquired was based on the 'condi
 
 # 3. Business Results
 
-![test](https://user-images.githubusercontent.com/97196457/161175021-375d9c28-b514-4547-931c-d3f446ade80a.png)
+![dash results](https://user-images.githubusercontent.com/97196457/161179006-a7c0b79a-03a4-443a-a1bd-494ce14cab3e.png)
 
-Total cost: US$4094212008.00 
-Total sold: US$4851233774.00 
-Total profit: US$ 757021766.00
+Result of the deal of 10579 properties:
+- Total cost: US$4094212008.00 
+- Total sold: US$4851233774.00 
+- Total profit: US$ 757021766.00
 
 # 4. Validation of Business Hypotheses
 
