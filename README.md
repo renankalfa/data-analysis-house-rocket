@@ -83,4 +83,5 @@ I haven't completed all the goals, like deploying an online dashboard, to start 
 - Jupyter Notebook;
 - Git/GitHub/GitHub Desktop;
 - Adobe Photoshop;
-- Notion.
+- Notion;
+- Vegas Pro 15.
